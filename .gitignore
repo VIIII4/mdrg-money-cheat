@@ -4,3 +4,17 @@
 save.mdrg
 backups/
 __pycache__/
+
+# 游戏数据提取产物（含游戏原文，版权原因不入库；本地保留）
+church_story_en.md
+church_raw.json
+story_en.json
+key2id.json
+id2key.json
+base.apk
+apk/
+vendor/
+venv/
+venv311/
+up*.json
+unitypy-*.tar.gz
