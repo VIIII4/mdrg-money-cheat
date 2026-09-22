@@ -1,0 +1,6 @@
+# 个人存档数据，勿提交
+*.mdrgslot
+*.pp
+save.mdrg
+backups/
+__pycache__/
