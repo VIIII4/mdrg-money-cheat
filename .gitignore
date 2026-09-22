@@ -18,3 +18,9 @@ venv/
 venv311/
 up*.json
 unitypy-*.tar.gz
+
+# 提取产物与原始数据（版权原因仅本地）
+extracted/
+global-metadata.dat
+gm.txt
+RESEARCH.md
